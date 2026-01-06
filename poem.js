@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Sleepy nights and sleepy days,
+    We struggle, we don't let it faze.
+    Keep moving foward to conquer, 
+    Since coding can be bonkers. 
 `;
 
 console.log(poem);
